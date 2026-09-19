@@ -1,0 +1,19 @@
+{
+  "name": "es6_classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0-classroom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx babel-node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@babel/core": "^8.0.6",
+    "@babel/node": "^8.0.6",
+    "@babel/preset-env": "^8.0.6"
+  }
+}
