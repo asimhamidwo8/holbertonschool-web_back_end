@@ -1,0 +1,21 @@
+{
+  "name": "es6_data_manipulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0-get_list_students.js",
+  "scripts": {
+    "dev": "babel-node",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^8.0.6",
+    "@babel/node": "^8.0.6",
+    "@babel/preset-env": "^8.0.6",
+    "babel-jest": "^30.5.2",
+    "eslint": "^10.11.0",
+    "jest": "^30.5.2"
+  }
+}
