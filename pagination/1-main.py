@@ -26,5 +26,3 @@ except AssertionError:
 print(server.get_page(1, 3))
 print(server.get_page(3, 2))
 print(server.get_page(3000, 100))
-
-
